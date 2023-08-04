@@ -1,7 +1,7 @@
 apiVersion: pipecd.dev/v1beta1
 kind: KubernetesApp
 spec:
-  name: canary-1
+  name: canary-demo
   labels:
     env: khanhtc-dev
   pipeline:
